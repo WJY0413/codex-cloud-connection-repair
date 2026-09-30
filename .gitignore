@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.log
+*.sqlite*
+*.db
+*.bin
+private/
+output/
+backups/
+auth.json
+status.json
+*.request

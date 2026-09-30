@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Cloud Connection Repair"
+  short_description: "Diagnose cloud connections and verify scoped recovery"
+  default_prompt: "Use $codex-cloud-connection-repair to diagnose my cloud setup failure and verify the smallest authorized recovery."
